@@ -3,10 +3,10 @@
   "version": "0.0.0",
   "private": true,
   "dependencies": {
-    "react": "15.6.1",
+    "react": "15.7.0",
     "redux": "3.7.2",
     "marked": "0.3.6",
-    "react-dom": "15.6.1",
+    "react-dom": "15.7.0",
     "prop-types": "15.5.10",
     "superagent": "3.5.2",
     "react-redux": "5.0.5",
