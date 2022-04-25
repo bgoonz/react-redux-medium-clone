@@ -10,7 +10,7 @@
     "prop-types": "15.5.10",
     "superagent": "6.1.0",
     "react-redux": "5.0.5",
-    "react-router": "5.2.0",
+    "react-router": "6.3.0",
     "redux-logger": "3.0.6",
     "superagent-promise": "1.1.0",
     "redux-devtools-extension": "2.13.2"
